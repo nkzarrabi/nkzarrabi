@@ -16,11 +16,11 @@ When I’m not coding, you might find me climbing, exploring new ideas, or refle
 
 🧰 My Toolbox
 
-	•	Languages: Python, Java, JavaScript, PHP, Liquid, HTML/CSS
+	•	Languages: Python, Java, JavaScript, PHP, Liquid, HTML/CSS, Swift
 	•	Frameworks: Django, Flask, Playwright
-	•	Cloud Platforms: AWS, Google Cloud
-	•	Skills: CI/CD, Process Automation, Data Analysis
-	•	Languages I Speak: English, French (native), Farsi, Spanish (proficient), German (intermediate)
+	•	Cloud Platforms: AWS, Google Cloud, Xcode Cloud
+	•	Skills: CI/CD, Process Automation, Data Analysis, App Development
+	•	Human Languages I Speak: English, French (native), Farsi, Spanish (proficient), German (intermediate)
 
 🌱 My Values
 
@@ -30,7 +30,7 @@ When I’m not coding, you might find me climbing, exploring new ideas, or refle
 
 💡 Fun Facts
 
-	•	World Explorer: I’ve lived in three countries, speak multiple languages, and find inspiration in diverse perspectives.
+	•	World Explorer: I’ve lived in more than three countries, speak multiple languages, and find inspiration in diverse perspectives.
 	•	Creative Thinker: From writing stories to designing systems, I love connecting art and technology.
 	•	Climbing Enthusiast: Problem-solving extends to the climbing wall, where strategy meets persistence.
 
